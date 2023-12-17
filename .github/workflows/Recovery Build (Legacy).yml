@@ -18,7 +18,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'android-9'
+        default: 'UJC201-V1.0.66R3-231020_0857'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
