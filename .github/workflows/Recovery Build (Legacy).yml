@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/TASiCo76/android_device_alps_ac8257_demo'
+        default: 'https://github.com/TASiCo76/ac8257_demo'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'UJC201-V1.0.66R3-231020_0857'
+        default: 'android-9'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
